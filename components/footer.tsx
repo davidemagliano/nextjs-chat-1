@@ -12,7 +12,7 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
       )}
       {...props}
     >
-      AI chatbot built by{' '}
+      Multi-agent AI chatbot built by{' '}
       <ExternalLink href="https://www.reply.com/laife-reply/en/">Laife Reply</ExternalLink>
       .
     </p>
